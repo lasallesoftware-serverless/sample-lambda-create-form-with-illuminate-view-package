@@ -1,0 +1,28 @@
+{
+    "name": "lasallesoftware-serverless/sample-lambda-create-form-with-illuminate-view-package",
+    "description": "Sample PHP Lambda function to create a Blade form with the Illuminate view package, made with the Serverless Framework and Bref",
+    "keywords": ["php", "serverless", "lambda", "blade"],
+    "license": "MIT",
+    "homepage": "https://phpserverlessproject.com",
+    "support": {
+        "issues": "https://github.com/lasallesoftware-serverless/sample-lambda-create-form-with-illuminate-packages/issues",
+        "source": "https://github.com/lasallesoftware-serverless/sample-lambda-create-form-with-illuminate-packages"
+    },
+    "authors": [
+        {
+            "name": "Bob Bloom",
+            "email": "bob.bloom@lasallesoftware.ca"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "lasallesoftware-serverless/render-blade-lambda": "^1.0",
+        "bref/bref": "^1.4"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
