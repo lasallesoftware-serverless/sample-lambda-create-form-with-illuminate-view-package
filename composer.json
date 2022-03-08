@@ -15,9 +15,9 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.0",
         "lasallesoftware-serverless/render-blade-lambda": "^1.0",
-        "bref/bref": "^1.4"
+        "bref/bref": "^1.5"
     },
     "config": {
         "optimize-autoloader": true,
