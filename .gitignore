@@ -3,4 +3,5 @@
 
 /vendor
 /.serverless
+/compiled_blade_template
 composer.lock
